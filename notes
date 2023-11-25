@@ -1,0 +1,64 @@
+To get public static void main(String[] args) line
+        type main and press Ctrl + space then,
+      you will get the option for the main method select it
+
+
+
+
+------------------------------------------------------------------
+constant value
+final float PI=3.14
+------------------------------------------------------------------
+arithmetic +,-,/,*
+------------------------------------------------------------------
+type casting float result=(float)10/(float)3;
+gives float value
+------------------------------------------------------------------
+
+increment x++,++x
+decrement --x,x--
+x+=
+pemdas
+------------------------------------------------------------------
+type casting
+Integer.parseInt()// takes string and returns int
+String x="1";
+int y=Integer.parseInt(x)+2
+sout(y)
+
+------------------------------------------------------------------
+math class
+Math class
+Math.round()
+Math.ceil()
+Math.floor()
+Math.max(1,2) ,Math.min()
+Math.random();
+------------------------------------------------------------------
+ternary operator
+a?b:c
+a condition,b if part,c else part statement
+------------------------------------------------------------------
+for loops
+for(int i=0;i<n;i++)
+{
+............
+}
+------------------------------------------------------------------
+while(i>0)
+{
+increment/decrement/change i
+}
+------------------------------------------------------------------
+do{
+
+}while(i>0)
+------------------------------------------------------------------
+break,continue
+
+------------------------------------------------------------------
+for each loop
+
+int[] numbers={1,2,3,4}
+for(int numbers:numbers)
+sout(numbers);
